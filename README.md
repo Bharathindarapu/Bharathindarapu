@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bharathindarapu
-- 👀 I’m interested in Electrical engineering and comuter science projects.
+- 👀 I’m interested in Electrical engineering and computer science projects.
 - 🌱 I’m currently learning EECS
 - 💞️ I’m looking to collaborate on ELECTRICAL DESIGN
 -    working with passion is only the exeprience
@@ -9,7 +9,7 @@
      my only passion to work in electrical field 
      makíng me stable to work in electrical engineering
      atanomous añd I am sure that I can perfectly fit
-     for the Position,
+     for.
 
      looking forward to work with TEAM to 
      grow mutually and proffesinally
